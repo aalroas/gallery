@@ -41,13 +41,13 @@
       ]
     },
     {
-      "name": "Qwen2.5-0.5B-Instruct",
-      "modelId": "litert-community/Qwen2.5-0.5B-Instruct",
-      "modelFile": "qwen2.5-0.5b-instruct-dynamic_int8.litertlm",
-      "description": "A variant of [Qwen/Qwen2.5-0.5B-Instruct](https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct) ready for deployment on Android using [LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM/blob/main/kotlin/README.md).",
-      "sizeInBytes": 546308096,
+      "name": "Qwen3-0.6B",
+      "modelId": "litert-community/Qwen3-0.6B",
+      "modelFile": "Qwen3-0.6B.litertlm",
+      "description": "A variant of [Qwen/Qwen3-0.6B](https://huggingface.co/Qwen/Qwen3-0.6B) ready for deployment on Android using [LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM/blob/main/kotlin/README.md).",
+      "sizeInBytes": 643825664,
       "minDeviceMemoryInGb": 2,
-      "commitHash": "6c237a59eedeb06a821b21f0a59b03d346ac8bc3",
+      "commitHash": "4c0f158768e8ed6b3cebc54e617732e9b1d819ae",
       "defaultConfig": {
         "topK": 20,
         "topP": 0.8,
