@@ -47,7 +47,7 @@
       "description": "A variant of [Qwen/Qwen2.5-0.5B-Instruct](https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct) ready for deployment on Android using [LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM/blob/main/kotlin/README.md).",
       "sizeInBytes": 546308096,
       "minDeviceMemoryInGb": 2,
-      "commitHash": "main",
+      "commitHash": "6c237a59eedeb06a821b21f0a59b03d346ac8bc3",
       "defaultConfig": {
         "topK": 20,
         "topP": 0.8,
